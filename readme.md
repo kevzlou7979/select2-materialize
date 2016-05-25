@@ -16,7 +16,7 @@
 
 ## Licence
 
-Do whatever you want, but how ever no warranty anout anything
+Do whatever you want, but however no warranty about anything
 
 Sorry for my english
 
